@@ -1,0 +1,12 @@
+
+To Run Locally Please follow the instructions in package.sh file
+
+package.sh file will help to create a zip file of the node module which we can use as a Layer and can Use that Layer to trigger playwright-core in Lambda.
+
+# For Windows
+
+-> To create Zip file
+
+bash ```
+Compress-Archive ./nodejs ../dist/chromium.zip
+```

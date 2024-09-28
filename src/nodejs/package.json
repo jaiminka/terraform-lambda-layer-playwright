@@ -1,0 +1,12 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "deploy lambda layer in AWS",
+    "main": "index.js",
+    "author": "Jaimin k",
+    "license": "ISC",
+    "dependencies": {
+        "@sparticuz/chromium": "^127.0.0",
+        "playwright-core": "^1.47.2"
+    }
+}
